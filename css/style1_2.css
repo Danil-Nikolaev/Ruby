@@ -1,0 +1,28 @@
+
+.table-elem {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    float: left;
+    width: 250px;
+    height: 100px; 
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    font-size: 20px;  
+}
+
+.table {
+    margin: 50px auto;
+    width:2000px;
+}
+
+.table-elem-head {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.table-elem-p{
+    margin-top: 30px;
+} 
+
